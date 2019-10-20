@@ -1,0 +1,12 @@
+[package]
+name = "food_Library"
+version = "0.1.0"
+authors = ["bravo <muzammilaliaree@gmail.com>"]
+edition = "2018"
+description = "Food Library "
+license = "MIT"
+repository = "https://github.com/alimuzammil/food_library"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
